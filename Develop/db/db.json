@@ -1,26 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Test",
-        "text": "Test"
-    },
-    {
-        "title": "Finish pending documentation",
-        "text": "finish reports\nfinish homework"
-    },
-    {
-        "title": "open selected note",
-        "text": "touch on it and can edit"
-    },
-    {
-        "title": "delete notes",
-        "text": "delete"
-    },
-    {
-        "title": "why does this not work",
-        "text": "what is missing??"
+      "title": "Babyboy does this work?",
+      "text": "\nI hope so!",
+      "id": "0"
     }
-]
+  ]
+}

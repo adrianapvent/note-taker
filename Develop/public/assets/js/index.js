@@ -50,6 +50,36 @@ const deleteNote = (id) =>
     },
   });
 
+  // const editNote = (id) => {
+  //   return fetch('/api/notes/' + id, {
+  //     method: "PUT"
+  //   })
+  // };
+  
+  // let handleEdit = (event) => {
+  //   event.stopPropagation();
+  //   renderActiveNote();
+  //   console.log("Did this work")
+  
+  //   var note = (editNote) => {
+  //     .parent(".list-group-item")
+  //     .data();
+  
+  //     if (activeNote.id === note.id) {
+  //       activeNote = {
+  //         title: noteTitle,
+  //         text: noteText,
+  //       };
+  //     }
+  //   editNote(note.id).then(function() {
+  //     saveNote(activeNote);
+  //     getAndRenderNotes();
+  //     renderActiveNote();
+  //   })
+  //     console.log(note)
+  // }
+  
+
 const renderActiveNote = () => {
   hide(saveNoteBtn);
 
