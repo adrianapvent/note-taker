@@ -1,4 +1,4 @@
-const res = require("express/lib/application");
+const res = require("express/helpers/application");
 const fs = require("fs");
 const path = require("path");
 
