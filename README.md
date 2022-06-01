@@ -9,7 +9,7 @@ Welcome to the Note Taker project!
 
 An application that creates, edits, and deletes notes!
 
-You may visit the deployed [website](https://adrianapvent.github.io/note-taker/) to try it out for yourself!
+You may visit the deployed [website](https://fathomless-reaches-70044.herokuapp.com/) to try it out for yourself!
 
 ## User Story
 AS A small business owner

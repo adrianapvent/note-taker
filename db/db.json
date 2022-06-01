@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "sdfsdfsdf",
+      "text": "sdfsdfdsfsdf",
+      "id": "0"
+    },
+    {
+      "title": "sdfsdfdsf",
+      "text": "sdfdsfdsfs",
+      "id": "1"
+    },
+    {
+      "title": "New Note",
+      "text": "my text",
+      "id": "2"
+    }
+  ]
 }
